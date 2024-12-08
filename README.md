@@ -48,7 +48,7 @@ In this home lab, I’ll set up a Domain Controller (DC) and a Client VM in Azur
   <li>After the VM is created, configure Client-1’s DNS settings to use DC-1’s Private IP address</li>
 </ol>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/830525e9-dfdd-4f3a-9793-740b4698779b" alt="Client-1 VM Screenshot" />
+  <img src="https://github.com/user-attachments/assets/6e2e4886-7ad1-49cd-b1e6-5d48d80f0c81" alt="Client-1 VM Screenshot" />
 </p>
 
 <h3>Testing Connectivity</h3>
