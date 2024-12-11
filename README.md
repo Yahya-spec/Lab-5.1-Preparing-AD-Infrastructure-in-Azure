@@ -34,7 +34,7 @@ In this home lab, I’ll set up a Domain Controller (DC) and a Client VM in Azur
   <li>Log into the VM and disable the Windows Firewall (for testing connectivity)</li>
 </ol>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/92697741-60f8-439d-9c74-1cc8fd16f916" alt="Domain Controller VM Screenshot" />
+  <img src="https://github.com/user-attachments/assets/b3f24209-ca9b-4c4c-a2e5-38aefed5068f" alt="Domain Controller VM Screenshot" />
 </p>
 
 <h3>Setting Up Client-1 in Azure</h3>
@@ -48,7 +48,7 @@ In this home lab, I’ll set up a Domain Controller (DC) and a Client VM in Azur
   <li>After the VM is created, configure Client-1’s DNS settings to use DC-1’s Private IP address</li>
 </ol>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6e2e4886-7ad1-49cd-b1e6-5d48d80f0c81" alt="Client-1 VM Screenshot" />
+  <img src="https://github.com/user-attachments/assets/4af1fd5d-5ca9-488f-9924-720adf84a610" alt="Client-1 VM Screenshot" />
 </p>
 
 <h3>Testing Connectivity</h3>
@@ -65,7 +65,7 @@ In this home lab, I’ll set up a Domain Controller (DC) and a Client VM in Azur
   </ul>
 </ol>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/492b953e-6841-4d60-a19d-b5cbeab62683" alt="PowerShell Output Screenshot" />
+  <img src="https://github.com/user-attachments/assets/d928e285-4b83-4e91-b1d5-46fc2a90f576" alt="PowerShell Output Screenshot" />
 </p>
 
 # Key Takeaways: Deploying On-Premises Active Directory in Azure
